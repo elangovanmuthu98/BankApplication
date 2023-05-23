@@ -3,7 +3,8 @@
 public class Main {
     public static void main(String[] args) {
 
-       sbiAccout s=new sbiAccout();
+       sbiAccout s=new sbiAccout(5000,7);
+
 
     }
 }
